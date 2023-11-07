@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SayaBirthdayPuzzle/static/css/main.9337e009.css",
+    "main.js": "/SayaBirthdayPuzzle/static/js/main.87a9114f.js",
+    "static/js/787.96b0e776.chunk.js": "/SayaBirthdayPuzzle/static/js/787.96b0e776.chunk.js",
+    "static/media/square_2_0.jpg": "/SayaBirthdayPuzzle/static/media/square_2_0.b48a9fb40cf6f26297c8.jpg",
+    "static/media/square_2_2.jpg": "/SayaBirthdayPuzzle/static/media/square_2_2.810035cd05eda7e43e50.jpg",
+    "static/media/square_2_1.jpg": "/SayaBirthdayPuzzle/static/media/square_2_1.4b55815cb5535f65d129.jpg",
+    "static/media/square_2_3.jpg": "/SayaBirthdayPuzzle/static/media/square_2_3.42f3a0016befb8dc5e9e.jpg",
+    "static/media/square_3_2.jpg": "/SayaBirthdayPuzzle/static/media/square_3_2.48e9378616bae242abbd.jpg",
+    "static/media/square_3_0.jpg": "/SayaBirthdayPuzzle/static/media/square_3_0.cdd385c46166b6f80fd4.jpg",
+    "static/media/square_3_3.jpg": "/SayaBirthdayPuzzle/static/media/square_3_3.5c980f2f6298e0cdb6ea.jpg",
+    "static/media/square_3_1.jpg": "/SayaBirthdayPuzzle/static/media/square_3_1.df31254f3177a365e3a8.jpg",
+    "static/media/square_1_2.jpg": "/SayaBirthdayPuzzle/static/media/square_1_2.637573882e5832dd1d7d.jpg",
+    "static/media/square_1_3.jpg": "/SayaBirthdayPuzzle/static/media/square_1_3.b6ffd026573d6c2bd32f.jpg",
+    "static/media/square_1_0.jpg": "/SayaBirthdayPuzzle/static/media/square_1_0.18aa4569acab5a607e6c.jpg",
+    "static/media/square_1_1.jpg": "/SayaBirthdayPuzzle/static/media/square_1_1.2a503c5bfb26201f27d6.jpg",
+    "static/media/square_0_3.jpg": "/SayaBirthdayPuzzle/static/media/square_0_3.8397836a9bc2e5656a27.jpg",
+    "static/media/square_0_2.jpg": "/SayaBirthdayPuzzle/static/media/square_0_2.b2785aff0addc1bf5760.jpg",
+    "static/media/square_0_0.jpg": "/SayaBirthdayPuzzle/static/media/square_0_0.d18c570119f37c6e24f0.jpg",
+    "static/media/square_0_1.jpg": "/SayaBirthdayPuzzle/static/media/square_0_1.eb168932926756858781.jpg",
+    "static/media/logo.svg": "/SayaBirthdayPuzzle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SayaBirthdayPuzzle/index.html",
+    "main.9337e009.css.map": "/SayaBirthdayPuzzle/static/css/main.9337e009.css.map",
+    "main.87a9114f.js.map": "/SayaBirthdayPuzzle/static/js/main.87a9114f.js.map",
+    "787.96b0e776.chunk.js.map": "/SayaBirthdayPuzzle/static/js/787.96b0e776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9337e009.css",
+    "static/js/main.87a9114f.js"
+  ]
+}
