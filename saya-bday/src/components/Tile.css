@@ -11,4 +11,9 @@
     width: 100%;
     height: 100%;
     object-fit: cover; /* Ensure image covers the entire tile */
+    object-fit: fill; /* Stretches image to fill box (Best option so far) */
+}
+
+#opaque-tile {
+    opacity: 0;
 }
