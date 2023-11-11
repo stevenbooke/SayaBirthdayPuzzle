@@ -1,13 +1,3 @@
-/* CHATGPT */
-/* .grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  max-width: 100%; Ensure it doesn't exceed viewport width
-  max-height: 100%;
-  margin: 20%; Center the grid
-} */
-
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

@@ -1,5 +1,5 @@
 import Particles from "react-tsparticles";
-import { loadSlim } from "tsparticles-slim"; // loads tsparticles-slim
+// import { loadSlim } from "tsparticles-slim"; // loads tsparticles-slim
 import { loadFull } from "tsparticles"; // loads tsparticles
 import { useCallback, useMemo } from "react";
 
@@ -704,9 +704,8 @@ const ParticlesComponent = (props) => {
 
   // useCallback is not mandatory, but it's recommended since this callback can be memoized if static
   const particlesInit = useCallback(async engine => {
-    // loadSlim(engine);
-    await console.log('particlesInit engine:', engine)
-    await loadFull(engine); // for this sample the slim version is enough, choose whatever you prefer, slim is smaller in size but doesn't have all the plugins and the mouse trail feature
+    // loadSlim(engine); // for this project the slim version is not enough, choose whatever you prefer, slim is smaller in size but doesn't have all the plugins and the mouse trail feature
+    await loadFull(engine);
   }, []);
 
   const particlesLoaded = useCallback(async container => {

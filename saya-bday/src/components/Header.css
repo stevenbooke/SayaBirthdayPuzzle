@@ -12,29 +12,7 @@
 
 .header h1 {
     flex: 1;
-    /* font-size: 8vw; */
     font-family: cursive;
     color: #ffffff;
     margin: 0;
 }
-
-/* .header h1 {
-    font-size: 60px;
-    font-family: cursive;
-    color: #ffffff;
-    margin: 0;
-} */
-  
-  /* Media query for medium-sized screens (768px and below) */
-/* @media (max-width: 768px) {
-    .header h1 {
-        font-size: 24px;
-    }
-} */
-  
-  /* Media query for smaller screens (480px and below) */
-/* @media (max-width: 480px) {
-    .header h1 {
-        font-size: 30px;
-    }
-} */

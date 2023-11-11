@@ -1,6 +1,5 @@
 import React from "react";
 import NET from 'vanta/dist/vanta.net.min';
-import Grid from './Grid';
 import './Vanta.css';
 
 const Vanta = () => {

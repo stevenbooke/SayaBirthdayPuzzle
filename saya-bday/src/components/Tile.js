@@ -1,10 +1,10 @@
 import React from 'react';
 import './Tile.css';
 
-const Tile = ({ id, imageSource, move }) => {
+const Tile = ({ isBlankTile, imageSrc, move }) => {
     return (
-        <div className="tile" id={id === 12 ? 'opaque-tile' : ''}>
-            <img src={imageSource} alt="Tile" onClick={move}></img>
+        <div className="tile" id={isBlankTile ? 'opaque-tile' : null}>
+            <img src={imageSrc} alt="Tile" onClick={move}></img>
         </div>
     )
 };
